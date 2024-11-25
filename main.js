@@ -1,3 +1,7 @@
+//Repeated Statements
+
+//Write a program that launches a carousal for 10 turns, showing the turn number each time.
+//Improve it so that the number of turns is given by the user
 document.querySelector("#score").addEventListener("click",run)
 
 function run(){
